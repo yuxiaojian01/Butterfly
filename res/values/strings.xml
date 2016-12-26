@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Butterfly Hunter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_logo_top">Hunt the Butterflies</string>
+    <string name="app_logo_bottom">Touch to Enjoy!</string>
+    <string name="app_version_info">Instrunctions: 1. Enable GPS before playing.\n 2. Approach the butterflies to catch them.</string>
+    <string name="menu">Touch to Enjoy!</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="menu_item_play">Play Game</string>
+    <string name="menu_item_scores">View Scores</string>
+    <string name="menu_item_help">Help</string>
+
+</resources>
